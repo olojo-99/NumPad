@@ -1,13 +1,5 @@
 import java.util.*; // Used for Scanner, ArrayList
 
-/* -----------------------------------------------------
-GROUP MEMBERS
-Benjamin Olojo - 19500599
-Tuomas Bazzan - 20344926
-Thomas Kelly 20361526
-Przemyslaw Majda - 20505049
-  ----------------------------------------------------- */
-
 public class numPad
 {
     // Class variable -  array of string where the index correlates to the number pressed
